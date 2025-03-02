@@ -54,7 +54,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
     <div>
         <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
-        <p style="font-size: 15px; margin-bottom: -0.2em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
+        <p style="font-size: 15px; margin-bottom: -0.1em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
         <p style="font-size: 15px; margin-bottom: -0.2em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
         <p style="font-size: 15px; "><a href="https://drive.google.com/file/d/1whMeSxRh1BiUlunBTz26-7MTjv2K7cRF/view?usp=sharing">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
     </div>
@@ -64,7 +64,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/AIM.png" style="width: 36%; margin-right: 20px;" />
     <div>
         <h2>AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning</h2>
-        <p style="font-size: 15px; margin-bottom: -0.2em;">Under Review.</p>
+        <p style="font-size: 15px; margin-bottom: -0.1em;">Under Review.</p>
         <p style="font-size: 15px; margin-bottom: -0.2em;">Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang</p>
         <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
     </div>

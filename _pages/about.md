@@ -22,7 +22,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 I am a second-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor [Yin Li](https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate).
 
-I obtained a Master of Science in Computer Science at the University of Southern California (USC), advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University (SYSU).
+I obtained a Master of Science in Computer Science at the University of Southern California, advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University.
 
 My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage Learning, Video Understanding. 
 
@@ -69,6 +69,16 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
     </div>
 </div>
+
+<!-- <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/Agile3D.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review.</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</p>
+        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
+    </div>
+</div> -->
 
 
 

@@ -94,7 +94,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 ---
 
-<h1 id="experience">Experience</h1>
+<h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Experience</h1>
 <ol>
     <li>
         <strong>[2024.05-Now]</strong> Research assistant working with Professor 

@@ -51,7 +51,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 ---
 
-<h1 style="margin-bottom: 5px;">Updates</h1>
+<h1 style="margin-bottom: -5px;">Updates</h1>
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
     <div>

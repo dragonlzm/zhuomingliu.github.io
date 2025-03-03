@@ -70,15 +70,15 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     </div>
 </div>
 
-<!-- <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/Agile3D.png" style="width: 36%; margin-right: 20px;" />
     <div>
         <h2>Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs</h2>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review.</p>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</p>
-        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
+        <!-- <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p> -->
     </div>
-</div> -->
+</div>
 
 
 

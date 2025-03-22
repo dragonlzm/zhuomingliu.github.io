@@ -1,49 +1,113 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
+excerpt: "About"
+# header:
+#   overlay_image: /assets/images/positional_embedding.png
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!---I am an incoming Ph.D. student at the University of Wisconsin-Madison. Previously, -->
+<!-- I obtained a Master of Science in Computer Science at the University of Southern California (USC). Before that, I received my bachelor’s Degree at Sun Yat-sen University (SYSU).
 
-A data-driven personal website
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.   -->
+<!-- <p>I am a first-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor Yin Li</p>
+<p>I obtained a Master of Science in Computer Science at the University of Southern California (USC), advised by Professor Ram Nevatia. Before that, I received my bachelor’s degree at Sun Yat-sen University (SYSU).</p>
+<p style="margin-bottom: 2em;">My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling. </p> -->
+
+
+I am a second-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor [Yin Li](https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate).
+
+I obtained a Master of Science in Computer Science at the University of Southern California, advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University.
+
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage Learning, Video Understanding. 
+
+
+<!-- <h1 style="margin-bottom: 0.2em;">News</h1>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;">
+  <div>
+    <h2><a href="https://arxiv.org/abs/2303.12145" style="font-size: 18px;">Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions</a></h2>
+    <p style="margin-bottom: 0.2em; font-size: 15px;">ArXiv Preprint 2023.</p>
+    <p style="font-size: 15px;">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
+  </div>
+</div> -->
+
+<!--  -->
+<!-- <h1>Updates</h1>
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2em;"> 
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;" />
+    <div>
+        <h2> Efficient Feature Distillation for Zero-shot Annotation Object Detection </h2>
+        <p style="font-size: 15px; margin-bottom: -0.2em">IEEE/CVF Winter Conference on Applications of Computer Vision 2024 (WACV 2024).</p>
+        <p style="font-size: 15px; margin-bottom: -0.2em">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
+        <p style="font-size: 15px; "> <a href="https://arxiv.org/abs/2303.12145">Paper</a> | <a href="https://github.com/dragonlzm/EZAD/">Code</a> </p>
+    </div>
+</div> -->
+
+---
+
+<h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Updates</h1>
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
+        <p style="font-size: 15px; "><a href="https://drive.google.com/file/d/1whMeSxRh1BiUlunBTz26-7MTjv2K7cRF/view?usp=sharing">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/AIM.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review.</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang</p>
+        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
+    </div>
+</div>
+
+<!-- <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/Agile3D.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review.</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</p>
+        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
+    </div>
+</div> -->
+
+
+
+
+
+
+<!-- Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. **[2021.12-2023.05]** Research assistant at [USC IRIS computer vision Lab](https://sites.usc.edu/iris-cvlab/), supervised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). 
+1. **[2020.08-2021.07]** Research intern at [SenseTime Research](https://www.sensetime.com/en), supervised by Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and cooperated with Professor [Jifeng Dai](https://jifengdai.org/) -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Experience</h1>
+<ol>
+    <li>
+        <strong>[2024.05-Now]</strong> Research assistant working with Professor 
+        <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
+    </li>
+    <li>
+        <strong>[2021.12-2023.05]</strong> Research assistant at 
+        <a href="https://sites.usc.edu/iris-cvlab/">USC IRIS computer vision Lab</a>, advised by Professor 
+        <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>.
+    </li>
+    <li><strong>[2020.08-2021.07]</strong> Research intern at 
+        <a href="https://www.sensetime.com/en">SenseTime Research</a>, supervised by Dr. 
+        <a href="https://scholar.google.com/citations?user=PopTv7kAAAAJ&amp;hl=en">Conghui He</a> and cooperated with Professor 
+        <a href="https://jifengdai.org/">Jifeng Dai</a>.
+    </li>
+</ol>

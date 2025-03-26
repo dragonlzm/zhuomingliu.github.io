@@ -58,7 +58,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
         <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
-        <p style="font-size: 15px; "><a href="https://drive.google.com/file/d/1whMeSxRh1BiUlunBTz26-7MTjv2K7cRF/view?usp=sharing">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
+        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2503.19794">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
     </div>
 </div>
 

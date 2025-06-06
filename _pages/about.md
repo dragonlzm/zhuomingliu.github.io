@@ -106,8 +106,8 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>.
     </li>
     <li><strong>[2020.08-2021.07]</strong> Research intern at 
-        <a href="https://www.sensetime.com/en">SenseTime Research</a>, advised by Dr. 
-        <a href="https://scholar.google.com/citations?user=PopTv7kAAAAJ&amp;hl=en">Conghui He</a> and collaborated with Professor 
+        <a href="https://www.sensetime.com/en">SenseTime Research</a>, worked with <a href="https://scholar.google.com/citations?user=AqmmngsAAAAJ&hl=en">Huaping Zhong</a>, Dr. 
+        <a href="https://scholar.google.com/citations?user=PopTv7kAAAAJ&amp;hl=en">Conghui He</a> and Professor 
         <a href="https://jifengdai.org/">Jifeng Dai</a>.
     </li>
 </ol>

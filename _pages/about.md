@@ -52,6 +52,16 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 ---
 
 <h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Updates</h1>
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
+        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2503.19794">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
+    </div>
+</div>
+
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/AIM.png" style="width: 36%; margin-right: 20px;" />
     <div>
@@ -63,12 +73,12 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/agile3d.png" style="width: 36%; margin-right: 20px;" />
     <div>
-        <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
-        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2503.19794">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
+        <h2>Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2025).</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</p>
+        <p style="font-size: 15px; "><a href="https://www.biostat.wisc.edu/~yli/preprints/mobisys25_preprint.pdf">Paper</a> | <a href="https://github.com/ChulanZhang/Agile3D">Code</a></p>
     </div>
 </div>
 

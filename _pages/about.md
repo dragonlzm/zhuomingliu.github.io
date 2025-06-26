@@ -51,6 +51,16 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 ---
 
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/AIM.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF International Conference on Computer Vision 2025 (ICCV 2025).</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang</p>
+        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
+    </div>
+</div>
+
 <h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Updates</h1>
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
@@ -62,15 +72,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/AIM.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF International Conference on Computer Vision 2025 (ICCV 2025).</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang</p>
-        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
-    </div>
-</div>
+
 
 <!-- <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/Agile3D.png" style="width: 36%; margin-right: 20px;" />

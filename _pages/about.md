@@ -109,7 +109,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 <h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Experience</h1>
 <ol>
     <li>
-        <strong>[2024.05-Now]</strong> Research assistant working with Professor 
+        <strong>[2024.05-Now]</strong> Research assistant at University of Wisconsin-Madison, advised by Professor 
         <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
     </li>
     <li>

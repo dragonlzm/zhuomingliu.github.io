@@ -20,7 +20,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 <p style="margin-bottom: 2em;">My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling. </p> -->
 
 
-I am a second-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor [Yin Li](https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate).
+I am a third-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor [Yin Li](https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate).
 
 I obtained a Master of Science in Computer Science at the University of Southern California, advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University.
 
@@ -78,7 +78,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <h2>Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs</h2>
         <p style="font-size: 15px; margin-bottom: -0.05em;">The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2025).</p>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</p>
-        <p style="font-size: 15px; "><a href="https://www.biostat.wisc.edu/~yli/preprints/mobisys25_preprint.pdf">Paper</a> | <a href="https://github.com/ChulanZhang/Agile3D">Code</a></p>
+        <p style="font-size: 15px; "><a href="https://dl.acm.org/doi/10.1145/3711875.3729147">Paper</a> | <a href="https://github.com/ChulanZhang/Agile3D">Code</a></p>
     </div>
 </div>
 
@@ -111,6 +111,11 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <li>
         <strong>[2024.05-Now]</strong> Research assistant at University of Wisconsin-Madison, advised by Professor 
         <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
+    </li>
+    <li>
+        <strong>[2021.12-2023.05]</strong> Applied Research Scientist at 
+        <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, worked with Dr. 
+        <a href="https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en">Robinson Piramuthu</a> and <a href="https://scholar.google.com/citations?user=AjTfCjEAAAAJ&hl=en">Xiaofeng Gao</a>.
     </li>
     <li>
         <strong>[2021.12-2023.05]</strong> Research assistant at 

@@ -113,7 +113,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
     </li>
     <li>
-        <strong>[2021.12-2023.05]</strong> Applied Research Scientist at 
+        <strong>[2025.05-2025.08]</strong> Applied Research Scientist Intern at 
         <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, worked with Dr. 
         <a href="https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en">Robinson Piramuthu</a> and <a href="https://scholar.google.com/citations?user=AjTfCjEAAAAJ&hl=en">Xiaofeng Gao</a>.
     </li>

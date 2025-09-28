@@ -24,6 +24,10 @@ Work experience
   * Research assistant
   * Supervisor: Professor Yin Li
 
+* 05/2025-08/2025: Amazon AGI
+  * Applied Research Scientist Intern
+  * Supervisor: Dr. Robinson Piramuthu
+
 * 12/2021-05/2023: USC IRIS Computer Vision Lab
   * Research assistant
   * Supervisor: Professor Ram Nevatia

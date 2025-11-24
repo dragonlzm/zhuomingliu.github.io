@@ -24,7 +24,7 @@ I am a third-year Ph.D. student in the Department of Computer Science, Universit
 
 I obtained a Master of Science in Computer Science at the University of Southern California, advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University.
 
-My research lies in Computer Vision and Machine Learning. I am particularly interested in Perception, Visual Reasoning, Video Understanding.
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Perception, Visual-Textual Reasoning, Video Understanding.
 
 
 <!-- <h1 style="margin-bottom: 0.2em;">News</h1>
@@ -64,7 +64,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/START.pdf" style="width: 36%; margin-right: 20px;" />
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/START.png" style="width: 36%; margin-right: 20px;" />
     <div>
         <h2>START: Spatial and Textual Learning for Chart Understanding</h2>
         <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026).</p>

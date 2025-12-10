@@ -69,7 +69,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <h2>START: Spatial and Textual Learning for Chart Understanding</h2>
         <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026).</p>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Xiaofeng Gao, Feiyang Niu, Qiaozi Gao, Liu Liu, Robinson Piramuthu</p>
-        <!-- <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p> -->
+        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2512.07186">Paper</a> | <a href="https://github.com/dragonlzm/START">Code</a> </p>
     </div>
 </div>
 

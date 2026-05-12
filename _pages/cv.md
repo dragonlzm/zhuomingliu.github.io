@@ -24,6 +24,10 @@ Work experience
   * Research assistant
   * Supervisor: Professor Yin Li
 
+* 05/2025-08/2025: Meta Superintelligence Labs, Perception
+  * Research Scientist Intern
+  * Supervisor: Dr. Haitham Khedr
+
 * 05/2025-08/2025: Amazon AGI
   * Applied Research Scientist Intern
   * Supervisor: Dr. Robinson Piramuthu

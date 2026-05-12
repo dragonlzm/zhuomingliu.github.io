@@ -115,7 +115,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <li>
         <strong>[2025.09-2026.04]</strong> Research Scientist Intern at
         <a href="https://ai.meta.com/research/sam3/">Meta Superintelligence Labs, Perception</a>, worked with Dr.
-        <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also worked very closely with <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>, and <a href="https://dbolya.com/">Daniel Bolya</a>
+        <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also worked very closely with <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>, and <a href="https://dbolya.com/">Daniel Bolya</a>.
     </li>
     <li>
         <strong>[2025.05-2025.08]</strong> Applied Research Scientist Intern at

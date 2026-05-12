@@ -20,27 +20,27 @@ Education
 
 Work experience
 ======
-* 05/2024-Now: Yin's Lab
+* 2024.05-Now: Yin's Lab
   * Research assistant
   * Supervisor: Professor Yin Li
 
-* 05/2025-08/2025: Meta Superintelligence Labs, Perception
+* 2025.09-2026.04: Meta Superintelligence Labs, Perception
   * Research Scientist Intern
   * Supervisor: Dr. Haitham Khedr
 
-* 05/2025-08/2025: Amazon AGI
+* 2025.05-2025.08: Amazon AGI
   * Applied Research Scientist Intern
   * Supervisor: Dr. Robinson Piramuthu
 
-* 12/2021-05/2023: USC IRIS Computer Vision Lab
+* 2021.12-2023.05: USC IRIS Computer Vision Lab
   * Research assistant
   * Supervisor: Professor Ram Nevatia
 
-* 07/2020-07/2021: SenseTime Research
+* 2020.07-2021.07: SenseTime Research
   * Research Intern
   * Supervisor: Dr. Conghui He and Professor Jifeng Dai
 
-* 04/2019-06/2020: Institute of Big Data and Computing Intelligence, SYSU
+* 2019.04-2020.06: Institute of Big Data and Computing Intelligence, SYSU
   * Research assistant
   * Supervisor: Professor Changdong Wang
 

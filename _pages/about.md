@@ -113,6 +113,11 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
     </li>
     <li>
+        <strong>[2025.09-2026.04]</strong> Research Scientist Intern at
+        <a href="https://ai.meta.com/research/sam3/">Meta Superintelligence Labs, SAM Team</a>, worked with Dr.
+        <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also work very closely with <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>
+    </li>
+    <li>
         <strong>[2025.05-2025.08]</strong> Applied Research Scientist Intern at
         <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, worked with Dr.
         <a href="https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en">Robinson Piramuthu</a> and <a href="https://scholar.google.com/citations?user=AjTfCjEAAAAJ&hl=en">Xiaofeng Gao</a>.

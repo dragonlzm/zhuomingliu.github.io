@@ -20,29 +20,29 @@ Education
 
 Work experience
 ======
-* 2024.05-Now: Yin's Lab
+* 2024.05-Now: [Yin's Lab](https://www.biostat.wisc.edu/~yli/)
   * Research assistant
-  * Supervisor: Professor Yin Li
+  * Supervisor: Professor [Yin Li](https://www.biostat.wisc.edu/~yli/)
 
-* 2025.09-2026.04: Meta Superintelligence Labs, Perception
+* 2025.09-2026.04: [Meta Superintelligence Labs, Perception](https://ai.meta.com/research/sam3/)
   * Research Scientist Intern
-  * Supervisor: Dr. Haitham Khedr
+  * Supervisor: Dr. [Haitham Khedr](https://hkhedr.com/) and [Kate Saenko](https://ai.bu.edu/ksaenko.html)
 
-* 2025.05-2025.08: Amazon AGI
+* 2025.05-2025.08: [Amazon AGI](https://amazon.jobs/content/en/teams/agi)
   * Applied Research Scientist Intern
-  * Supervisor: Dr. Robinson Piramuthu
+  * Supervisor: Dr. [Robinson Piramuthu](https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en)
 
-* 2021.12-2023.05: USC IRIS Computer Vision Lab
+* 2021.12-2023.05: [USC IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/)
   * Research assistant
-  * Supervisor: Professor Ram Nevatia
+  * Supervisor: Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
 
-* 2020.07-2021.07: SenseTime Research
+* 2020.07-2021.07: [SenseTime Research](https://www.sensetime.com/en)
   * Research Intern
-  * Supervisor: Dr. Conghui He and Professor Jifeng Dai
+  * Supervisor: Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and Professor [Jifeng Dai](https://jifengdai.org/)
 
 * 2019.04-2020.06: Institute of Big Data and Computing Intelligence, SYSU
   * Research assistant
-  * Supervisor: Professor Changdong Wang
+  * Supervisor: Professor [Changdong Wang](https://scholar.google.com/citations?user=omqnB70AAAAJ&hl=en)
 
 <!-- Skills
 ======

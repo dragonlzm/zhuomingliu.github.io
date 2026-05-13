@@ -115,14 +115,14 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <li>
         <strong>[2025.09-2026.04]</strong> Research Scientist Intern at
         <a href="https://ai.meta.com/research/sam3/">Meta Superintelligence Labs, Perception</a>, worked with Dr.
-        <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also worked very closely with <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>, and <a href="https://dbolya.com/">Daniel Bolya</a>.
+        <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also worked closely with Dr. <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>, and <a href="https://dbolya.com/">Daniel Bolya</a>.
     </li>
     <li>
         <strong>[2025.05-2025.08]</strong> Applied Research Scientist Intern at
         <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, worked with Dr.
         <a href="https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en">Robinson Piramuthu</a> and <a href="https://scholar.google.com/citations?user=AjTfCjEAAAAJ&hl=en">Xiaofeng Gao</a>.
     </li>
-    <li>
+    <!-- <li>
         <strong>[2021.12-2023.05]</strong> Research assistant at
         <a href="https://sites.usc.edu/iris-cvlab/">USC IRIS computer vision Lab</a>, advised by Professor
         <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>.
@@ -131,5 +131,5 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <a href="https://www.sensetime.com/en">SenseTime Research</a>, worked with <a href="https://scholar.google.com/citations?user=AqmmngsAAAAJ&hl=en">Huaping Zhong</a>, Dr.
         <a href="https://scholar.google.com/citations?user=PopTv7kAAAAJ&amp;hl=en">Conghui He</a> and Professor
         <a href="https://jifengdai.org/">Jifeng Dai</a>.
-    </li>
+    </li> -->
 </ol>

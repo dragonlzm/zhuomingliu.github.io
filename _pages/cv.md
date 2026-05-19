@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://drive.google.com/file/d/1yF0SZDKN30FLbh7c5bOSV2BGZ89j2_k_/view?usp=sharing">My Curriculum Vitae</a>
+<a href="https://drive.google.com/file/d/1O4WdZcZDjBRJK2crt8y5XtkZ1kJO9x8f/view?usp=sharing">My Curriculum Vitae</a>
 
 {% include base_path %}
 

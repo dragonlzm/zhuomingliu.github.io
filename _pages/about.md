@@ -53,12 +53,12 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 <h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Selected Publications</h1>
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/DRIFT.png" style="width: 26%; margin-right: 20px;" />
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/DRIFT.png" style="width: 36%; margin-right: 20px;" />
     <div>
         <h2>DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models</h2>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review</p>
         <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Jinhong Lin, Kwan Man Cheng, Lin Zhang, Shayok Bagchi, Yin Li</p>
-        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2606.05758">Paper</a> | <a href="https://dragonlzm.github.io/DRIFT">Project Page</a></p> | <a href="https://github.com/dragonlzm/DRIFT">Code</a></p>
+        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2606.05758">Paper</a> | <a href="https://dragonlzm.github.io/DRIFT">Project Page</a> | <a href="https://github.com/dragonlzm/DRIFT">Code</a></p>
     </div>
 </div>
 

@@ -38,7 +38,7 @@ Work experience
 
 * 2020.07-2021.07: [SenseTime Research](https://www.sensetime.com/en)
   * Research Intern
-  * Supervisor: Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and Professor [Jifeng Dai](https://jifengdai.org/)
+  * Supervisor: [Huaping Zhong](https://scholar.google.com/citations?user=AqmmngsAAAAJ&hl=en), Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and Professor [Jifeng Dai](https://jifengdai.org/)
 
 * 2019.04-2020.06: Institute of Big Data and Computing Intelligence, SYSU
   * Research assistant

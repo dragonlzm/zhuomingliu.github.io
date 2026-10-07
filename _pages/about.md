@@ -24,7 +24,7 @@ I am a Ph.D. student in the Department of Computer Science, University of Wiscon
 
 I obtained a Master of Science in Computer Science at the University of Southern California, advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University.
 
-My research lies in Computer Vision and Machine Learning. I am particularly interested in Omni-Perception, Visual-Textual Reasoning, Video Understanding.
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Post-training of the Vision-Language Model and Video Understanding.
 
 
 <!-- <h1 style="margin-bottom: 0.2em;">News</h1>

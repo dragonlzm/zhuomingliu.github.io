@@ -1,0 +1,11 @@
+<div class="social-links" aria-label="Contact and profiles">
+  {% assign email_url = site.author.email | prepend: 'mailto:' %}
+  {% assign github_url = site.author.github | prepend: 'https://github.com/' %}
+  {% assign linkedin_url = site.author.linkedin | prepend: 'https://www.linkedin.com/in/' %}
+  {% assign twitter_url = site.author.twitter | remove: '@' | prepend: 'https://twitter.com/' %}
+  {% include academic-action.html url=email_url label="Email" icon="fa-solid fa-envelope" %}
+  {% include academic-action.html url=site.author.googlescholar label="Scholar" icon="ai ai-google-scholar" %}
+  {% include academic-action.html url=github_url label="GitHub" icon="fa-brands fa-github" %}
+  {% include academic-action.html url=linkedin_url label="LinkedIn" icon="fa-brands fa-linkedin" %}
+  {% include academic-action.html url=twitter_url label="X" icon="fa-brands fa-x-twitter" %}
+</div>

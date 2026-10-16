@@ -1,3 +1,13 @@
+# Maintaining this homepage
+
+Home, Publications, and CV use the shared `academic` layout. Older pages retain the original AcademicPages theme.
+
+- Edit biography and experience in `_pages/about.md`, and CV details in `_pages/cv.md`. Their collaborator/supervisor lists are intentionally independent.
+- Update publications in `_data/research.yml`. `archive_order` controls the full list; optional `selected_order` selects and orders homepage papers. Keep author order and contribution markers as published. Put figures in `images/` and use their filenames in the data.
+- Profile links and the portrait come from `author` in `_config.yml`. The new template uses the existing `site.url` + `site.baseurl` convention, including the repository subpath.
+- Visual styles live in `assets/css/academic.scss`; theme preference is shared with legacy pages through the `theme` browser-storage key.
+- Preview with Jekyll as described below. For this repository's deployed subpath, use `bundle exec jekyll serve --url http://localhost:4000 --baseurl /zhuomingliu.github.io` and open `http://localhost:4000/zhuomingliu.github.io/`.
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "malow",
+    "title": "Memory as Weights: Internalizing Long-Term History for Streaming Videos",
+    "image": "MaLoW.png",
+    "venue": "Under Review",
+    "authors": [
+      "Zhuoming Liu",
+      "Jinhong Lin",
+      "Lin Zhang",
+      "Yiwu Zhong",
+      "Yin Li"
+    ],
+    "archive_order": 1,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2610.22070",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Project",
+        "url": "https://dragonlzm.github.io/MaLoW",
+        "icon": "fa-solid fa-globe"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/dragonlzm/MaLoW",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "selected_order": 1
+  },
+  {
+    "id": "drift",
+    "title": "DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models",
+    "image": "DRIFT.png",
+    "venue": "Under Review",
+    "authors": [
+      "Zhuoming Liu",
+      "Jinhong Lin",
+      "Kwan Man Cheng",
+      "Lin Zhang",
+      "Shayok Bagchi",
+      "Yin Li"
+    ],
+    "archive_order": 2,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2606.05758",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Project",
+        "url": "https://dragonlzm.github.io/DRIFT",
+        "icon": "fa-solid fa-globe"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/dragonlzm/DRIFT",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "selected_order": 2
+  },
+  {
+    "id": "start",
+    "title": "START: Spatial and Textual Learning for Chart Understanding",
+    "image": "START.png",
+    "venue": "WACV 2026",
+    "authors": [
+      "Zhuoming Liu",
+      "Xiaofeng Gao",
+      "Feiyang Niu",
+      "Qiaozi Gao",
+      "Liu Liu",
+      "Robinson Piramuthu"
+    ],
+    "archive_order": 3,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2512.07186",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/dragonlzm/START",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "selected_order": 4
+  },
+  {
+    "id": "aim",
+    "title": "AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning",
+    "image": "AIM.png",
+    "venue": "ICCV 2025",
+    "authors": [
+      "Yiwu Zhong",
+      "Zhuoming Liu",
+      "Yin Li",
+      "Liwei Wang"
+    ],
+    "archive_order": 4,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://huggingface.co/papers/2412.03248",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/LaVi-Lab/AIM",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "selected_order": 5
+  },
+  {
+    "id": "agile3d",
+    "title": "Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs",
+    "image": "agile3d_copy.png",
+    "venue": "MobiSys 2025",
+    "authors": [
+      "Pengcheng Wang",
+      "Zhuoming Liu",
+      "Shayok Bagchi",
+      "Ran Xu",
+      "Saurabh Bagchi",
+      "Yin Li",
+      "Somali Chaterji"
+    ],
+    "archive_order": 5,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://dl.acm.org/doi/10.1145/3711875.3729147",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ChulanZhang/Agile3D",
+        "icon": "fa-brands fa-github"
+      }
+    ]
+  },
+  {
+    "id": "pave",
+    "title": "PAVE: Patching and Adapting Video Large Language Models",
+    "image": "PAVE.png",
+    "venue": "CVPR 2025",
+    "authors": [
+      "Zhuoming Liu",
+      "Yiquan Li",
+      "Khoi Duc Nguyen",
+      "Yiwu Zhong",
+      "Yin Li"
+    ],
+    "archive_order": 6,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2503.19794",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/dragonlzm/PAVE",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "selected_order": 3
+  },
+  {
+    "id": "ezad",
+    "title": "Efficient Feature Distillation for Zero-shot Annotation Object Detection",
+    "image": "EZSD.png",
+    "venue": "WACV 2024",
+    "authors": [
+      "Zhuoming Liu*",
+      "Xuefeng Hu*",
+      "Ram Nevatia"
+    ],
+    "archive_order": 7,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2303.12145",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/dragonlzm/EZAD/",
+        "icon": "fa-brands fa-github"
+      }
+    ]
+  },
+  {
+    "id": "isal",
+    "title": "Influence Selection for Active Learning",
+    "image": "ISAL.png",
+    "venue": "ICCV 2021",
+    "authors": [
+      "Zhuoming Liu*",
+      "Hao Ding*",
+      "Huaping Zhong",
+      "Weijia Li",
+      "Jifeng Dai",
+      "Conghui He"
+    ],
+    "archive_order": 8,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2108.09331",
+        "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/dragonlzm/ISAL/",
+        "icon": "fa-brands fa-github"
+      }
+    ]
+  }
+]

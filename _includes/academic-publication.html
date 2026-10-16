@@ -1,0 +1,12 @@
+{% assign paper = include.paper %}
+<article class="publication" aria-labelledby="paper-{{ paper.id }}">
+  <a class="publication-figure" href="{{ base_path }}/images/{{ paper.image }}" aria-label="View full-size figure for {{ paper.title | escape }}">
+    <img src="{{ base_path }}/images/{{ paper.image }}" alt="Overview figure for {{ paper.title | escape }}" loading="lazy" decoding="async">
+  </a>
+  <div class="publication-copy">
+    <p class="publication-venue{% if paper.venue == 'Under Review' %} is-preprint{% endif %}">{{ paper.venue }}</p>
+    <{{ include.heading }} id="paper-{{ paper.id }}" class="publication-title">{{ paper.title | escape }}</{{ include.heading }}>
+    <p class="publication-authors">{% for author in paper.authors %}{% if author contains 'Zhuoming Liu' %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+    <div class="publication-actions">{% for link in paper.links %}{% include academic-action.html url=link.url label=link.label icon=link.icon context=paper.title %}{% endfor %}</div>
+  </div>
+</article>

@@ -1,148 +1,55 @@
 ---
+layout: academic
+title: "Zhuoming Liu"
+excerpt: "Ph.D. student at UW–Madison researching vision-language model post-training and video understanding."
 permalink: /
-title: "About"
-excerpt: "About"
-# header:
-#   overlay_image: /assets/images/positional_embedding.png
-
-author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-<!---I am an incoming Ph.D. student at the University of Wisconsin-Madison. Previously, -->
-<!-- I obtained a Master of Science in Computer Science at the University of Southern California (USC). Before that, I received my bachelor’s Degree at Sun Yat-sen University (SYSU).
-
-My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.   -->
-<!-- <p>I am a first-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor Yin Li</p>
-<p>I obtained a Master of Science in Computer Science at the University of Southern California (USC), advised by Professor Ram Nevatia. Before that, I received my bachelor’s degree at Sun Yat-sen University (SYSU).</p>
-<p style="margin-bottom: 2em;">My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling. </p> -->
+{% include base_path %}
 
 
-I am a Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor [Yin Li](https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate).
-
-I obtained a Master of Science in Computer Science at the University of Southern California, advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University.
-
-My research lies in Computer Vision and Machine Learning. I am particularly interested in Post-training of the Vision-Language Model and Video Understanding.
-
-
-<!-- <h1 style="margin-bottom: 0.2em;">News</h1>
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;">
-  <div>
-    <h2><a href="https://arxiv.org/abs/2303.12145" style="font-size: 18px;">Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions</a></h2>
-    <p style="margin-bottom: 0.2em; font-size: 15px;">ArXiv Preprint 2023.</p>
-    <p style="font-size: 15px;">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
+<section class="profile" aria-labelledby="profile-name">
+  <div class="profile-copy">
+    <p class="eyebrow">Computer vision &amp; machine learning</p>
+    <h1 id="profile-name">Zhuoming Liu</h1>
+    <p class="profile-name-secondary"><span lang="zh">刘卓名</span> <span aria-hidden="true">·</span> Zoom</p>
+    <p class="profile-intro">I am a Ph.D. student in Computer Science at <strong>UW–Madison</strong>, advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=_y-8nrcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Yin Li</a>. My research focuses on <strong>vision-language model post-training</strong> and <strong>video understanding</strong>.</p>
+    <p class="profile-education">Previously, I earned an M.S. in Computer Science at USC, advised by <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>, and a bachelor’s degree at Sun Yat-sen University.</p>
+    {% include academic-social.html %}
   </div>
-</div> -->
+  <div class="profile-photo">
+    <img src="{{ base_path }}/images/{{ site.author.avatar }}" alt="Zhuoming Liu" width="200" height="200" fetchpriority="high">
+    <p><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Madison, WI</p>
+  </div>
+</section>
 
-<!--  -->
-<!-- <h1>Updates</h1>
-<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;" />
-    <div>
-        <h2> Efficient Feature Distillation for Zero-shot Annotation Object Detection </h2>
-        <p style="font-size: 15px; margin-bottom: -0.2em">IEEE/CVF Winter Conference on Applications of Computer Vision 2024 (WACV 2024).</p>
-        <p style="font-size: 15px; margin-bottom: -0.2em">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
-        <p style="font-size: 15px; "> <a href="https://arxiv.org/abs/2303.12145">Paper</a> | <a href="https://github.com/dragonlzm/EZAD/">Code</a> </p>
-    </div>
-</div> -->
+<section class="research-section" aria-labelledby="selected-publications">
+  <div class="section-heading">
+    <h2 id="selected-publications">Selected publications</h2>
+    <a class="text-action" href="{{ base_path }}/publications/">All publications <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+  <div class="publication-list">
+    {% assign selected = site.data.research | where_exp: "paper", "paper.selected_order != nil" | sort: "selected_order" %}
+    {% for paper in selected %}{% include academic-publication.html paper=paper heading="h3" %}{% endfor %}
+  </div>
+</section>
 
----
-
-<h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Selected Publications</h1>
-
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/MaLoW.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>Memory as Weights: Internalizing Long-Term History for Streaming Videos</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Jinhong Lin, Lin Zhang, Yiwu Zhong, Yin Li</p>
-        <p style="font-size: 15px; "><a href="https://arxiv.org/pdf/2610.22070">Paper</a> | <a href="https://dragonlzm.github.io/MaLoW">Project Page</a> | <a href="https://github.com/dragonlzm/MaLoW">Code</a></p>
-    </div>
-</div>
-
-
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/DRIFT.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Jinhong Lin, Kwan Man Cheng, Lin Zhang, Shayok Bagchi, Yin Li</p>
-        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2606.05758">Paper</a> | <a href="https://dragonlzm.github.io/DRIFT">Project Page</a> | <a href="https://github.com/dragonlzm/DRIFT">Code</a></p>
-    </div>
-</div>
-
-
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
-        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2503.19794">Paper</a> | <a href="https://github.com/dragonlzm/PAVE">Code</a></p>
-    </div>
-</div>
-
-
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/START.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>START: Spatial and Textual Learning for Chart Understanding</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026).</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Xiaofeng Gao, Feiyang Niu, Qiaozi Gao, Liu Liu, Robinson Piramuthu</p>
-        <p style="font-size: 15px; "><a href="https://arxiv.org/abs/2512.07186">Paper</a> | <a href="https://github.com/dragonlzm/START">Code</a> </p>
-    </div>
-</div>
-
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/AIM.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">The IEEE/CVF International Conference on Computer Vision 2025 (ICCV 2025).</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang</p>
-        <p style="font-size: 15px; "><a href="https://huggingface.co/papers/2412.03248">Paper</a> | <a href=" https://github.com/LaVi-Lab/AIM">Code</a> </p>
-    </div>
-</div>
-
-<!-- <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/agile3d_copy.png" style="width: 36%; margin-right: 20px;" />
-    <div>
-        <h2>Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs</h2>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2025).</p>
-        <p style="font-size: 15px; margin-bottom: -0.05em;">Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</p>
-        <p style="font-size: 15px; "><a href="https://dl.acm.org/doi/10.1145/3711875.3729147">Paper</a> | <a href="https://github.com/ChulanZhang/Agile3D">Code</a></p>
-    </div>
-</div>
- -->
-
-
-
-
-
-
-<!-- Experience
-======
-1. **[2021.12-2023.05]** Research assistant at [USC IRIS computer vision Lab](https://sites.usc.edu/iris-cvlab/), supervised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
-1. **[2020.08-2021.07]** Research intern at [SenseTime Research](https://www.sensetime.com/en), supervised by Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and cooperated with Professor [Jifeng Dai](https://jifengdai.org/) -->
-
----
-
-<h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Experience</h1>
-<ul style="list-style-type: none; padding-left: 0;">
-    <li>
-        <strong>[2024.05-Now]</strong> Research assistant at University of Wisconsin-Madison, advised by Professor
-        <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
-    </li>
-    <li>
-        <strong>[2025.09-2026.04]</strong> Research Scientist Intern at
-        <a href="https://ai.meta.com/research/sam3/">Meta Superintelligence Labs, Perception</a>, worked with Dr.
-        <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also worked closely with Dr. <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>, and <a href="https://dbolya.com/">Daniel Bolya</a>.
-    </li>
-    <li>
-        <strong>[2025.05-2025.08]</strong> Applied Research Scientist Intern at
-        <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, worked with Dr.
-        <a href="https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en">Robinson Piramuthu</a> and <a href="https://scholar.google.com/citations?user=AjTfCjEAAAAJ&hl=en">Xiaofeng Gao</a>.
-    </li>
-</ul>
+<section class="experience-section" aria-labelledby="experience">
+  <div class="section-heading"><h2 id="experience">Experience</h2><a class="text-action" href="{{ base_path }}/cv/">Full CV <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></div>
+  <div class="experience-list">
+    <article class="experience-entry">
+      <p class="experience-date">May 2024–Present</p>
+      <div><h3>University of Wisconsin–Madison</h3><p class="experience-role">Research assistant</p><p class="experience-detail">Advised by Professor <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.</p></div>
+    </article>
+    <article class="experience-entry">
+      <p class="experience-date">Sep 2025–Apr 2026</p>
+      <div><h3><a href="https://ai.meta.com/research/sam3/">Meta Superintelligence Labs, Perception</a></h3><p class="experience-role">Research Scientist Intern</p><details><summary>Collaborators</summary><p class="experience-detail">Worked with Dr. <a href="https://hkhedr.com/">Haitham Khedr</a>, <a href="https://www.nikhilaravi.com/">Nikhila Ravi</a>, and <a href="https://feichtenhofer.github.io/">Christoph Feichtenhofer</a>. I also worked closely with Dr. <a href="https://andreamad8.github.io/">Andrea Madotto</a>, <a href="https://janghyuncho.github.io/">Vincent Cho</a>, <a href="https://pzzhang.github.io/pzzhang/">Pengchuan Zhang</a>, and <a href="https://dbolya.com/">Daniel Bolya</a>.</p></details></div>
+    </article>
+    <article class="experience-entry">
+      <p class="experience-date">May–Aug 2025</p>
+      <div><h3><a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a></h3><p class="experience-role">Applied Research Scientist Intern</p><details><summary>Collaborators</summary><p class="experience-detail">Worked with Dr. <a href="https://scholar.google.com/citations?user=2CkqEGcAAAAJ&hl=en">Robinson Piramuthu</a> and <a href="https://scholar.google.com/citations?user=AjTfCjEAAAAJ&hl=en">Xiaofeng Gao</a>.</p></details></div>
+    </article>
+  </div>
+</section>

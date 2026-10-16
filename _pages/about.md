@@ -41,7 +41,7 @@ redirect_from:
   <div class="experience-list">
     <article class="experience-entry">
       <p class="experience-date">May 2024–Present</p>
-      <div><h3>University of Wisconsin–Madison</h3><p class="experience-role">Research assistant</p><p class="experience-detail">Advised by Professor <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.</p></div>
+      <div><h3>University of Wisconsin–Madison</h3><p class="experience-role">Research assistant</p><p class="experience-detail">Advised by Professor <a href="https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate">Yin Li</a>.</p></div>
     </article>
     <article class="experience-entry">
       <p class="experience-date">Sep 2025–Apr 2026</p>

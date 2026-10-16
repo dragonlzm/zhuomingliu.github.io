@@ -52,6 +52,18 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 ---
 
 <h1 style=" margin-top: 2em; margin-bottom: -0.5em;">Selected Publications</h1>
+
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/MaLoW.png" style="width: 36%; margin-right: 20px;" />
+    <div>
+        <h2>Memory as Weights: Internalizing Long-Term History for Streaming Videos</h2>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Under Review</p>
+        <p style="font-size: 15px; margin-bottom: -0.05em;">Zhuoming Liu, Jinhong Lin, Lin Zhang, Yiwu Zhong, Yin Li</p>
+        <p style="font-size: 15px; "><a href="https://arxiv.org/pdf/2610.22070">Paper</a> | <a href="https://dragonlzm.github.io/MaLoW">Project Page</a> | <a href="https://github.com/dragonlzm/MaLoW">Code</a></p>
+    </div>
+</div>
+
+
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/DRIFT.png" style="width: 36%; margin-right: 20px;" />
     <div>

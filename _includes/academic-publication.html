@@ -8,5 +8,6 @@
     <{{ include.heading }} id="paper-{{ paper.id }}" class="publication-title">{{ paper.title | escape }}</{{ include.heading }}>
     <p class="publication-authors">{% for author in paper.authors %}{% if author contains 'Zhuoming Liu' %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
     <div class="publication-actions">{% for link in paper.links %}{% include academic-action.html url=link.url label=link.label icon=link.icon context=paper.title %}{% endfor %}</div>
+    {% if paper.note %}<p class="publication-note">{{ paper.note | escape }} <a href="{{ paper.note_url | escape }}">{{ paper.note_link_label | escape }}</a> {{ paper.note_attribution | escape }}</p>{% endif %}
   </div>
 </article>

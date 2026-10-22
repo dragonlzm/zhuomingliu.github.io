@@ -91,6 +91,8 @@
 .publication-authors { margin-top: 8px !important; color: var(--academic-muted); font-size: 14px; line-height: 1.6; }
 .publication-authors strong { color: var(--academic-text); }
 .publication-actions { margin-top: 14px; }
+.publication-note { margin-top: 12px !important; padding-left: 12px; border-left: 2px solid var(--academic-border); color: var(--academic-muted); font-size: 13px; line-height: 1.6; }
+.publication-note a { text-decoration: underline; }
 .experience-section, .cv-experience { margin-top: 48px; }
 .experience-entry { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 24px; padding: 24px 0; border-bottom: 1px solid var(--academic-border); }
 .experience-date { color: var(--academic-muted); font-size: 13px; padding-top: 2px; font-variant-numeric: tabular-nums; }

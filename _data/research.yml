@@ -149,6 +149,10 @@
   {
     "id": "pave",
     "title": "PAVE: Patching and Adapting Video Large Language Models",
+    "note": "The proposal of the same name received a",
+    "note_link_label": "2025 Google Research Scholar Award",
+    "note_url": "https://research.google/programs-and-events/research-scholar-program/recipients/?filtertab=2025",
+    "note_attribution": "(recipient: Prof. Yin Li).",
     "image": "PAVE.png",
     "venue": "CVPR 2025",
     "authors": [

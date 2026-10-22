@@ -85,6 +85,11 @@
         "icon": "fa-solid fa-file-lines"
       },
       {
+        "label": "Project",
+        "url": "https://dragonlzm.github.io/START/",
+        "icon": "fa-solid fa-globe"
+      },
+      {
         "label": "Code",
         "url": "https://github.com/dragonlzm/START",
         "icon": "fa-brands fa-github"
@@ -168,6 +173,11 @@
         "label": "Paper",
         "url": "https://arxiv.org/abs/2503.19794",
         "icon": "fa-solid fa-file-lines"
+      },
+      {
+        "label": "Project",
+        "url": "https://dragonlzm.github.io/PAVE/",
+        "icon": "fa-solid fa-globe"
       },
       {
         "label": "Code",

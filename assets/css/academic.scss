@@ -94,6 +94,8 @@
 .experience-section, .cv-experience { margin-top: 48px; }
 .experience-entry { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 24px; padding: 24px 0; border-bottom: 1px solid var(--academic-border); }
 .experience-date { color: var(--academic-muted); font-size: 13px; padding-top: 2px; font-variant-numeric: tabular-nums; }
+.experience-organization { display: grid; grid-template-columns: 64px minmax(0, 1fr); align-items: start; gap: 20px; }
+.experience-logo { width: 64px; height: 64px; object-fit: contain; padding: 8px; border: 1px solid var(--academic-border); border-radius: 8px; background: #fff; }
 .academic-site .experience-entry h3 a { color: var(--academic-text); }
 .experience-role { font-size: 15px; margin-top: 3px !important; }
 .experience-detail { color: var(--academic-muted); font-size: 14px; margin-top: 8px !important; max-width: 72ch; }
@@ -136,6 +138,8 @@
   .publication-figure { aspect-ratio: 16 / 9; padding: 16px; }
   .academic-site .publication-title { font-size: 19px; }
   .experience-entry { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  .experience-organization { grid-template-columns: 52px minmax(0, 1fr); gap: 14px; }
+  .experience-logo { width: 52px; height: 52px; padding: 6px; }
   .experience-section, .cv-experience { margin-top: 36px; }
   .cv-heading { align-items: flex-start; flex-direction: column; }
   .site-footer { display: block; }

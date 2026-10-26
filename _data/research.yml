@@ -29,7 +29,15 @@
         "icon": "fa-brands fa-github"
       }
     ],
-    "selected_order": 1
+    "selected_order": 1,
+    "topics": [
+      "Vision-Language Models",
+      "Video Understanding",
+      "Embodied AI",
+      "Efficient ML",
+      "Post-training",
+      "Perception"
+    ]
   },
   {
     "id": "drift",
@@ -62,7 +70,19 @@
         "icon": "fa-brands fa-github"
       }
     ],
-    "selected_order": 2
+    "selected_order": 2,
+    "topics": [
+      "Vision-Language Models",
+      "Video Understanding",
+      "Embodied AI",
+      "Efficient ML",
+      "Post-training"
+    ],
+    "equal_contributors": [
+      "Zhuoming Liu",
+      "Jinhong Lin",
+      "Kwan Man Cheng"
+    ]
   },
   {
     "id": "start",
@@ -95,7 +115,14 @@
         "icon": "fa-brands fa-github"
       }
     ],
-    "selected_order": 4
+    "selected_order": 4,
+    "topics": [
+      "Vision-Language Models",
+      "Chart Understanding",
+      "Visual Reasoning",
+      "Post-training",
+      "RL"
+    ]
   },
   {
     "id": "aim",
@@ -121,7 +148,12 @@
         "icon": "fa-brands fa-github"
       }
     ],
-    "selected_order": 5
+    "selected_order": 5,
+    "topics": [
+      "Vision-Language Models",
+      "Video Understanding",
+      "Efficient ML"
+    ]
   },
   {
     "id": "agile3d",
@@ -149,6 +181,12 @@
         "url": "https://github.com/ChulanZhang/Agile3D",
         "icon": "fa-brands fa-github"
       }
+    ],
+    "topics": [
+      "Efficient ML",
+      "Object Detection",
+      "Video Understanding",
+      "RL"
     ]
   },
   {
@@ -185,7 +223,14 @@
         "icon": "fa-brands fa-github"
       }
     ],
-    "selected_order": 3
+    "selected_order": 3,
+    "topics": [
+      "Vision-Language Models",
+      "Video Understanding",
+      "Efficient ML",
+      "Post-training",
+      "Perception"
+    ]
   },
   {
     "id": "ezad",
@@ -193,8 +238,8 @@
     "image": "EZSD.png",
     "venue": "WACV 2024",
     "authors": [
-      "Zhuoming Liu*",
-      "Xuefeng Hu*",
+      "Zhuoming Liu",
+      "Xuefeng Hu",
       "Ram Nevatia"
     ],
     "archive_order": 7,
@@ -209,6 +254,15 @@
         "url": "https://github.com/dragonlzm/EZAD/",
         "icon": "fa-brands fa-github"
       }
+    ],
+    "topics": [
+      "Learning with Less Labeling",
+      "Distillation",
+      "Object Detection"
+    ],
+    "equal_contributors": [
+      "Zhuoming Liu",
+      "Xuefeng Hu"
     ]
   },
   {
@@ -217,8 +271,8 @@
     "image": "ISAL.png",
     "venue": "ICCV 2021",
     "authors": [
-      "Zhuoming Liu*",
-      "Hao Ding*",
+      "Zhuoming Liu",
+      "Hao Ding",
       "Huaping Zhong",
       "Weijia Li",
       "Jifeng Dai",
@@ -236,6 +290,15 @@
         "url": "https://github.com/dragonlzm/ISAL/",
         "icon": "fa-brands fa-github"
       }
+    ],
+    "topics": [
+      "Learning with Less Labeling",
+      "Active Learning",
+      "Object Detection"
+    ],
+    "equal_contributors": [
+      "Zhuoming Liu",
+      "Hao Ding"
     ]
   }
 ]

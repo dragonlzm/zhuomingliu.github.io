@@ -1,0 +1,17 @@
+<div class="publication-browser" data-publication-browser>
+  <p class="publication-legend"><sup>*</sup> Equal contribution</p>
+  <div class="publication-filters" hidden>
+    <p class="publication-filter-help">Filter by topic. Papers must match all selected topics.</p>
+    <div class="publication-filter-topics" role="group" aria-label="Filter publications by topic">
+      <button class="publication-topic" type="button" data-publication-clear aria-pressed="true">All</button>
+    </div>
+    <p class="publication-count" role="status" aria-live="polite" aria-atomic="true"></p>
+  </div>
+  <div class="publication-list">
+    {% for paper in include.papers %}{% include academic-publication.html paper=paper heading=include.heading %}{% endfor %}
+  </div>
+  <div class="publication-empty" hidden>
+    <p>No papers match these topics.</p>
+    <button class="publication-topic" type="button" data-publication-clear>Clear filters</button>
+  </div>
+</div>

@@ -12,7 +12,5 @@ permalink: /publications/
   <p>Computer vision, video understanding, and vision-language models.</p>
   <a class="text-action" href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 </header>
-<div class="publication-list">
-  {% assign publications = site.data.research | sort: "archive_order" %}
-  {% for paper in publications %}{% include academic-publication.html paper=paper heading="h2" %}{% endfor %}
-</div>
+{% assign publications = site.data.research | sort: "archive_order" %}
+{% include academic-publications.html papers=publications heading="h2" %}

@@ -30,10 +30,8 @@ redirect_from:
     <h2 id="selected-publications">Selected publications</h2>
     <a class="text-action" href="{{ base_path }}/publications/">All publications <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
   </div>
-  <div class="publication-list">
-    {% assign selected = site.data.research | where_exp: "paper", "paper.selected_order != nil" | sort: "selected_order" %}
-    {% for paper in selected %}{% include academic-publication.html paper=paper heading="h3" %}{% endfor %}
-  </div>
+  {% assign selected = site.data.research | where_exp: "paper", "paper.selected_order != nil" | sort: "selected_order" %}
+  {% include academic-publications.html papers=selected heading="h3" %}
 </section>
 
 <section class="experience-section" aria-labelledby="experience">

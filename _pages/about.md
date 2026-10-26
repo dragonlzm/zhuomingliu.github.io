@@ -15,7 +15,7 @@ redirect_from:
     <p class="eyebrow">Computer vision &amp; machine learning</p>
     <h1 id="profile-name">Zhuoming Liu</h1>
     <p class="profile-name-secondary"><span lang="zh">刘卓名</span> <span aria-hidden="true">·</span> Zoom</p>
-    <p class="profile-intro">I am a Ph.D. student in Computer Science at <strong>UW–Madison</strong>, advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=_y-8nrcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Yin Li</a>. My research focuses on <strong>vision-language model post-training</strong> and <strong>video understanding</strong>.</p>
+    <p class="profile-intro">I am a Ph.D. student in Computer Science at <strong>UW–Madison</strong>, advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=_y-8nrcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Yin Li</a>. My research focuses on <strong>vision-language model post-training</strong>, <strong>video understanding and embodied AI</strong>.</p>
     <p class="profile-education">Previously, I earned an M.S. in Computer Science at USC, advised by <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>, and a bachelor’s degree at Sun Yat-sen University.</p>
     {% include academic-social.html %}
   </div>

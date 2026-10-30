@@ -12,7 +12,7 @@ redirect_from:
 
 <section class="profile" aria-labelledby="profile-name">
   <div class="profile-copy">
-    <p class="eyebrow">Computer vision &amp; machine learning</p>
+    <p class="eyebrow">Computer vision &amp; Artificial Intelligence</p>
     <h1 id="profile-name">Zhuoming Liu</h1>
     <p class="profile-name-secondary"><span lang="zh">刘卓名</span> <span aria-hidden="true">·</span> Zoom</p>
     <p class="profile-intro">I am a Ph.D. student in Computer Science at <strong>UW–Madison</strong>, advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=_y-8nrcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Yin Li</a>. My research focuses on <strong>vision-language model post-training</strong>, <strong>video understanding and embodied AI</strong>.</p>
